@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+	font-family: 'Roboto', sans-serif;
+    background-color: #f7bf9b;
+    /* background: url(imagens/back2.png) no-repeat center center fixed; */
+	background-size: cover;
+}
+.main-section {
+	margin: 0 auto;
+	margin-top: 100px;
+	padding: 0;
+}
+.modal-content {
+	background-color: #a0226b;
+	opacity: .8; 
+	padding: 0 18px;
+	border-radius: 10px;
+}
